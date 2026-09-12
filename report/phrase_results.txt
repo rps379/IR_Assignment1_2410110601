@@ -1,0 +1,15 @@
+QUERY: cotton shirt
+No results
+
+QUERY: stretch denim
+No results
+
+QUERY: festive wear
+No results
+
+QUERY: winter wear
+No results
+
+QUERY: regular fit
+No results
+

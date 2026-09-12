@@ -1,0 +1,9 @@
+QUERY: cotton shirt | k=3
+No results
+
+QUERY: stretch denim | k=4
+No results
+
+QUERY: winter wear | k=3
+No results
+

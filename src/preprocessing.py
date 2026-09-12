@@ -22,9 +22,3 @@ def preprocess(text):
 
     return tokens
 
-if __name__ == "__main__":
-    text = "Men's Cotton Crew Neck T-Shirt - Black. Made from 100% cotton!"
-
-    result = preprocess(text)
-
-    print(result)
